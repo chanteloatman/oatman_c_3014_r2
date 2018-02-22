@@ -1,0 +1,1 @@
+Chantel Oatman Ð Research Assignment 2 Ð Links* http://form.guide/php-form/php-login-form.html * https://stackoverflow.com/questions/17797211/how-to-encrypt-a-password-that-is-inserted-into-a-mysql-table * http://webcheatsheet.com/php/md5_encrypt_passwords.php * https://php.earth/docs/security/passwords  
